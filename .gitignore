@@ -4,3 +4,5 @@ Strudent Manager/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 Strudent Manager/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
 .vs/Strudent Manager/v16/Server/sqlite3/storage.ide
 /.vs/Strudent Manager/v16/Server/sqlite3
+/Strudent Manager/bin/**
+/Strudent Manager/obj/**
